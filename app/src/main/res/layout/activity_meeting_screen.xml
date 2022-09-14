@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MeetingScreen.MeetingScreenActivity"
+    android:background="@color/bg2">
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="48dp"
+        android:gravity="center">
+        <ImageView android:id="@+id/p1"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/circlebig"
+            android:scaleType="center"/>
+
+        <ImageView android:id="@+id/p2"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/circlesmall"
+            android:scaleType="center"/>
+
+        <ImageView android:id="@+id/p3"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/circlesmall"
+            android:scaleType="center"/>
+
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/startb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/box"
+        android:backgroundTint="@color/bg2_dark"
+        android:textSize="24sp"
+        android:text="Начать"
+        android:textColor="@color/white"
+        android:fontFamily="@font/sfprotextbold"
+        android:textAllCaps="false"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="96dp"
+        android:paddingHorizontal="16dp"
+        android:visibility="invisible"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
