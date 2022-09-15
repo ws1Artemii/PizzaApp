@@ -4,18 +4,25 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/drawable/box.xml" value="0.2985" />
+        <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/drawable/box_circled.xml" value="0.196" />
         <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/drawable/box_stroke.xml" value="0.2985" />
         <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/drawable/circlebig.xml" value="0.2985" />
         <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/drawable/circlesmall.xml" value="0.2985" />
         <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/drawable/divider.xml" value="0.2985" />
-        <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/layout/activity_home_screen.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/drawable/divider2.xml" value="0.196" />
+        <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/drawable/divider_h.xml" value="0.196" />
+        <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/drawable/divider_h2.xml" value="0.196" />
+        <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/drawable/line_divider.xml" value="0.196" />
+        <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/layout/activity_home_screen.xml" value="0.18" />
         <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/layout/activity_launch_screen.xml" value="0.22" />
         <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/layout/activity_meeting_screen.xml" value="0.1" />
         <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/layout/activity_sign_in_screen.xml" value="0.358695652173913" />
         <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/layout/activity_sign_up_screen.xml" value="0.25" />
+        <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/layout/header_layout.xml" value="0.33" />
         <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/layout/slide1.xml" value="0.358695652173913" />
         <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/layout/slide2.xml" value="0.358695652173913" />
         <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/layout/slide3.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/204/AndroidStudioProjects/PizzaApp2/app/src/main/res/menu/menu1.xml" value="0.15348439504061565" />
       </map>
     </option>
   </component>

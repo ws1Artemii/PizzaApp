@@ -11,8 +11,6 @@ import com.example.common.HomeScreen.HomeScreenActivity;
 import com.example.common.R;
 import com.example.common.SignInScreen.SignInScreenActivity;
 
-import retrofit2.Retrofit;
-
 public class SignUpScreenActivity extends AppCompatActivity {
 
     @Override

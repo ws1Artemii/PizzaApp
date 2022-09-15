@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.pizzaapp"
+        applicationId "com.example.common"
         minSdk 28
         targetSdk 32
         versionCode 1
@@ -28,9 +28,6 @@ android {
 }
 
 dependencies {
-
-    implementation 'com.sqareup.retrofit2:retrofit:2.9.0'
-    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
 
     implementation 'androidx.appcompat:appcompat:1.5.1'
     implementation 'com.google.android.material:material:1.6.1'

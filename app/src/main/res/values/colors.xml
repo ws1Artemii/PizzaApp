@@ -11,4 +11,6 @@
     <color name="bg2">#F72D57</color>
     <color name="bg2_dark">#E71D47</color>
     <color name="gray">#002E2C</color>
+    <color name="whitegray">#EDEDED</color>
+    <color name="gray2">#B2002E2C</color>
 </resources>
