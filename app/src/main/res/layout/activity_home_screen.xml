@@ -440,7 +440,7 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:divider="@drawable/divider2"
+                    android:divider="@drawable/divider_35dp"
                     android:orientation="vertical"
                     android:outlineAmbientShadowColor="@color/black"
                     android:paddingTop="20dp"
@@ -671,7 +671,8 @@
         app:menu="@menu/menu1"
         tools:ignore="MissingConstraints"
         android:fitsSystemWindows="true"
-        android:layout_gravity="start"/>
+        android:layout_gravity="start"
+        android:background="@color/bg" />
 
 
 </androidx.drawerlayout.widget.DrawerLayout>
